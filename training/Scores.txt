@@ -1,0 +1,5 @@
+For the saved 16th epoch the out puts were:
+loss: 0.3432 - acc: 0.9007 - val_loss: 0.4092 - val_acc: 0.8950
+
+The evaluation accuracy after 20 epochs was:
+loss: 0.4079 - acc: 0.8946
